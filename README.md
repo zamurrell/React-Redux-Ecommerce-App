@@ -22,7 +22,7 @@ Planned improvement on future iterations of this project:
 
 - Improve backend
   - Replace Learncode.Academy RESTful API backend with Firebase Cloud Firestore
-- Implement 'Reset' feature
+- Implement Additional features
 - Use Next.js framework to implement server-side-rendering
 
 ### Installation
