@@ -2,6 +2,10 @@
 
 An E-commerce App which has been implemented in React/Redux Stack. Entire Project has been implemented in ES6 and Webpack 2 is used to bundle the entire source code. Increment, decrement, delete, and add items to shopping cart.
 
+## Demo
+
+![Ecommerce Cart React Demo](https://i.imgur.com/RasWNHX.gif)
+
 ### Tech
 
 This Project uses a number of open source projects to work properly:
