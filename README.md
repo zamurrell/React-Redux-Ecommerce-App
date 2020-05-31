@@ -21,7 +21,7 @@ This Project uses a number of open source projects to work properly:
 Planned improvement on future iterations of this project:
 
 - Improve backend
-  - Replace Learncode.Academy RESTful API backend with Firebase Cloud Firestore
+  - Replace Learncode.Academy RESTful API backend with Firebase Cloud Firestore or Express
 - Implement Additional features
 - Use Next.js framework to implement server-side-rendering
 
